@@ -472,8 +472,8 @@ rule-providers:
 rules:
   - "RULE-SET,LocalAreaNetwork,🀄 国内直连"
   - "RULE-SET,UnBan,🀄 国内直连"
-  - "RULE-SET,BanAD,⛔ 广告拦截"
-  - "RULE-SET,BanProgramAD,⛔ 广告拦截"
+  # - "RULE-SET,BanAD,⛔ 广告拦截"
+  # - "RULE-SET,BanProgramAD,⛔ 广告拦截"
   - "RULE-SET,GoogleFCM,📢 谷歌FCM"
   - "RULE-SET,GoogleCN,🀄 国内直连"
   - "RULE-SET,SteamCN,🀄 国内直连"
