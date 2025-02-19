@@ -1,0 +1,12 @@
+# sleazyfork 脚本
+DOMAIN-SUFFIX,sleazyfork.org
+
+# steam
+#DOMAIN-SUFFIX,steamcommunity.com
+#DOMAIN-SUFFIX,store.steampowered.com
+
+# mihomo
+DOMAIN-SUFFIX,metacubex.one
+
+# Google Play
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com # 部分子域名无法直连
