@@ -183,7 +183,6 @@ proxy-groups:
     type: select
     proxies:
       - DIRECT
-      - 🎚️ 节点选择
       - 🔧 手动切换
   # - name: ⛔ 广告拦截
   #   # icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AdBlack.png
