@@ -1,0 +1,29 @@
+#dler.io
+DOMAIN,api.dler.io
+
+#qbittorrent
+PROCESS-NAME,qbittorrent
+PROCESS-NAME,qbittorrent-nox
+
+#zerotire
+PROCESS-NAME,zerotier-one
+
+# Adobe
+DOMAIN-SUFFIX,photo-api.adobe.io
+
+# steam
+DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,steamstatic.com
+
+# Tracker
+DOMAIN,tr2.ysagin.top
+
+# Else
+DOMAIN-SUFFIX,i-s.fun
+DOMAIN-SUFFIX,374649.xyz
+
+# Forge
+DOMAIN,media.forgecdn.net
+
+# modrinth
+DOMAIN,cdn.modrinth.com
