@@ -74,6 +74,18 @@ proxy-groups:
       - 🇯🇵 日本节点
       - 🇰🇷 韩国节点
       - 🇸🇬 狮城节点
+  - name: 🎼 Spotify
+    type: select
+    proxies:
+      - 🀄 国内直连
+      - 🎚️ 节点选择
+      - 🔧 手动切换
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇺🇸 美国节点
+      - 🇯🇵 日本节点
+      - 🇰🇷 韩国节点
+      - 🇸🇬 狮城节点
   - name: 🔬 国内媒体
     # icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/DomesticMedia.png
     type: select
@@ -482,6 +494,13 @@ rule-providers:
     format: text
     type: http
   GlobalMedia:
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Spotify/Spotify.list
+    path: ./ruleset/Spotify.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  GlobalMedia:
     url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/GlobalMedia/GlobalMedia.list
     path: ./ruleset/GlobalMedia.list
     behavior: classical
@@ -564,6 +583,7 @@ rules:
   - "RULE-SET,Steam,🎮 游戏平台"
   - "RULE-SET,Nintendo,🎮 游戏平台"
   - "RULE-SET,Bahamut,📺 巴哈姆特"
+  - "RULE-SET,Spotify,🎼 Spotify"
   - "RULE-SET,ChinaMedia,🔬 国内媒体"
   - "RULE-SET,GlobalMedia,🔭 国外媒体"
   - "RULE-SET,ProxyGFWlist,🎚️ 节点选择"
