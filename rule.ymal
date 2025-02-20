@@ -265,28 +265,28 @@ proxy-groups:
   #   type: select
 
 rule-providers:
-  CostumDirect:
-    url: https://testingcf.jsdelivr.net/gh/snovvessel/ClashMetaOverride@main/ruleset/CostumDirect.list
-    path: ./ruleset/CostumDirect.list
+  CustomDirect:
+    url: https://testingcf.jsdelivr.net/gh/snovvessel/ClashMetaOverride@main/ruleset/CustomDirect.list
+    path: ./ruleset/CustomDirect.list
     behavior: classical
     interval: 86400
     format: text
     type: http
-  CostumProxy:
-    url: https://testingcf.jsdelivr.net/gh/snovvessel/ClashMetaOverride@main/ruleset/CostumProxy.list
-    path: ./ruleset/CostumProxy.list
+  CustomProxy:
+    url: https://testingcf.jsdelivr.net/gh/snovvessel/ClashMetaOverride@main/ruleset/CustomProxy.list
+    path: ./ruleset/CustomProxy.list
     behavior: classical
     interval: 86400
     format: text
     type: http
-  Costum_Direct:
+  Custom_Direct:
     url: https://testingcf.jsdelivr.net/gh/Custom_OpenClash_Rules@main/rule/Custom_Direct.list
     path: ./ruleset/Custom_Direct.list
     behavior: classical
     interval: 86400
     format: text
     type: http
-  Costum_Proxy:
+  Custom_Proxy:
     url: https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/rule/Custom_Proxy.list.list
     path: ./ruleset/Custom_Proxy.list
     behavior: classical
@@ -533,9 +533,9 @@ rule-providers:
 
 rules:
   - "RULE-SET,CustomDirect,🀄 国内直连"
-  - "RULE-SET,CostumProxy,🎚️ 节点选择"
+  - "RULE-SET,CustomProxy,🎚️ 节点选择"
   - "RULE-SET,Custom_Direct,🀄 国内直连"
-  - "RULE-SET,Costum_Proxy,🎚️ 节点选择"
+  - "RULE-SET,Custom_Proxy,🎚️ 节点选择"
   - "RULE-SET,LocalAreaNetwork,🀄 国内直连"
   - "RULE-SET,Lan,🀄 国内直连"
   - "RULE-SET,UnBan,🀄 国内直连"
