@@ -299,7 +299,7 @@ rule-providers:
     format: text
     type: http
   Custom_Proxy:
-    url: https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/rule/Custom_Proxy.list.list
+    url: https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/rule/Custom_Proxy.list
     path: ./ruleset/Custom_Proxy.list
     behavior: classical
     interval: 86400
