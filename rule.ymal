@@ -493,7 +493,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
-  GlobalMedia:
+  Spotify:
     url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Spotify/Spotify.list
     path: ./ruleset/Spotify.list
     behavior: classical
