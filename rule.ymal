@@ -292,7 +292,7 @@ rule-providers:
     format: text
     type: http
   Custom_Direct:
-    url: https://testingcf.jsdelivr.net/gh/Custom_OpenClash_Rules@main/rule/Custom_Direct.list
+    url: https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/rule/Custom_Direct.list
     path: ./ruleset/Custom_Direct.list
     behavior: classical
     interval: 86400
