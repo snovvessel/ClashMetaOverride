@@ -11,8 +11,11 @@ DOMAIN-SUFFIX,metacubex.one
 # Google Play
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com # 部分子域名无法直连
 
-# CopyManga
+# 拷贝漫画
 DOMAIN-SUFFIX,mangacopy.com
 
-# 2dFan
+# 漫画柜
+DOMAIN-SUFFIX,manhuagui.com
+
+# 2DFan
 DOMAIN-SUFFIX,2dfan.com
