@@ -13,3 +13,9 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com # 部分子域名无法直连
 
 # CopyManga
 DOMAIN-SUFFIX,mangacopy.com
+
+# dmhy
+DOMAIN-SUFFIX,dmhy.org
+
+# 2dFan
+DOMAIN-SUFFIX,2dfan.com
