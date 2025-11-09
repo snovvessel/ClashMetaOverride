@@ -1,3 +1,5 @@
+fallbackdns-rules:
+
 # quad9
 DOMAIN-SUFFIX,dns.quad9.net,🎚️ 节点选择
 
