@@ -1,1 +1,5 @@
+# quad9
+DOMAIN-SUFFIX,dns.quad9.net
 
+# cloudflare
+DOMAIN-SUFFIX,dns.cloudflare.com
