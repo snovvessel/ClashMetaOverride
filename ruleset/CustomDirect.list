@@ -27,3 +27,6 @@ DOMAIN,media.forgecdn.net
 
 # modrinth
 DOMAIN,cdn.modrinth.com
+
+# sourceforge
+DOMAIN-SUFFIX,dl.sourceforge.net
