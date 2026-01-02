@@ -1,7 +1,7 @@
 # quad9
 DOMAIN-SUFFIX,dns.quad9.net
-IP-CIDR,9.9.9.9
+IP-CIDR,9.9.9.9/32
 
 # cloudflare
 DOMAIN-SUFFIX,dns.cloudflare.com
-IP-CIDR,1.1.1.1
+IP-CIDR,1.1.1.1/32
