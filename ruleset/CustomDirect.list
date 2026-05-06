@@ -30,3 +30,6 @@ DOMAIN,cdn.modrinth.com
 
 # sourceforge
 DOMAIN-SUFFIX,dl.sourceforge.net
+
+# pikpak
+DOMAIN-SUFFIX,mypikpak.com
