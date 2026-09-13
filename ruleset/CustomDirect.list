@@ -32,4 +32,6 @@ DOMAIN,cdn.modrinth.com
 DOMAIN-SUFFIX,dl.sourceforge.net
 
 # pikpak
-DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-KEYWORD,dl-z01a-
+DOMAIN-KEYWORD,dl-a10b
+#DOMAIN-SUFFIX,mypikpak.com
