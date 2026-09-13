@@ -19,3 +19,7 @@ DOMAIN-SUFFIX,manhuagui.com
 
 # 2DFan
 DOMAIN-SUFFIX,2dfan.com
+
+#pikpak
+DOMAIN,access.mypikpak.com
+DOMAIN,api-drive.mypikpak.com
